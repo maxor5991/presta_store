@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<module>
+    <name>pagoefectivocip</name>
+    <displayName><![CDATA[PagoEfectivo - Operaciones con CIP]]></displayName>
+    <version><![CDATA[1.0.0]]></version>
+    <description><![CDATA[Transacciones seguras en internet en el Per&uacute;.]]></description>
+    <author><![CDATA[PagoEfectivo]]></author>
+    <tab><![CDATA[payments_gateways]]></tab>
+	<confirmUninstall><![CDATA[¿Esta seguro de querer desintalar el módulo de PagoEfectivo - Operaciones con CIP?]]></confirmUninstall>
+    <is_configurable>1</is_configurable>
+    <need_instance>1</need_instance>
+	<limited_countries></limited_countries>
+</module>
